@@ -34,8 +34,6 @@ https://flings.vmware.com/community-networking-driver-for-esxi#requirements
 
 第二个：ESXi-Customizer-PS.ps1
 
-第三个：VMware-VMvisor-Installer-7.0U2a-17867351.x86_64.iso
-
 然后执行此命令：.\ESXi-Customizer-PS.ps1 -v70 -pkgDir C:\Users\Administrator\Desktop\PKG -NSC
 
 
