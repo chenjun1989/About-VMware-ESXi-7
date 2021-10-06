@@ -1,4 +1,5 @@
-How to add vib drivers to that ESXi7 series Images./怎么在ESXi7系列镜像里添加网卡vib驱动。
+How to add vib drivers to that ESXi7 series Images？
+如何在ESXi7系列镜像里添加网卡vib驱动？
 
 在此感谢 sh1njp  的文章，并借鉴了其很多URL，使我受益匪浅，https://github.com/sh1njp/esxi7_custom
 
