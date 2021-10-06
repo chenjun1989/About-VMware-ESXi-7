@@ -39,6 +39,8 @@ https://flings.vmware.com/community-networking-driver-for-esxi#requirements
 至此告一段落，再次感谢sh1njp 。
 
 
+ありがとうございます！sh1njp
 
+感谢！  sh1njp
 
-
+Thanks a lot! sh1njp
