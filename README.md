@@ -28,14 +28,16 @@ https://flings.vmware.com/community-networking-driver-for-esxi#requirements
 重中之重，如何归纳数据文件进此文件夹
 
 
-位于桌面新建一个文件夹PKG,路径为C:\Users\Administrator\Desktop\PKG
+位于系统盘去新建一个文件夹PKG,路径为C:\esxi7-custom\pkg
 拷贝文件进此文件夹：
 
 第一个：Net-Community-Driver_1.2.0.0-1vmw.700.1.0.15843807_18028830.zip
 
 第二个：ESXi-Customizer-PS.ps1
 
-然后执行此命令：.\ESXi-Customizer-PS.ps1 -v70 -pkgDir C:\Users\Administrator\Desktop\PKG -NSC
+第三个：VMware-VMvisor-Installer-7.0U3-18644231.x86_64.iso
+
+然后执行此命令：.\ESXi-Customizer-PS.ps1 -v70 -pkgDir C:\esxi7-custom\pkg\ -NSC
 
 
 此期间需要耐心等待一段时间，生成好的文件名为：ESXi-7.0U3-18644231-standard-customized.iso
